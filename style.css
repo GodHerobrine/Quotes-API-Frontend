@@ -73,3 +73,9 @@ span.psw {
 		width: 100%;
 	}
 }
+
+
+/* Signed-in */
+#signed-in_main {
+  border: 3px solid black;
+}
